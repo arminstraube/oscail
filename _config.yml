@@ -1,4 +1,5 @@
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: OSCAIL
-author: OSCAIL group
-description: This is a webpage
+description: This is a webpage.
