@@ -1,7 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+plugins: - jekyll-remote-theme
 title: OSCAIL
-description: This is a webpage. It can have some short description here. Or links for navigation. For example <br> <a href="https://arminstraube.github.io/oscail/members.html">List of Members</a>.
-show_downloads: true
+description: This is a webpage. It can have some short description here. Or links for navigation. For example: <br> <a href="https://arminstraube.github.io/oscail/members.html">List of Members</a>
 logo: /assets/img/logo.png
